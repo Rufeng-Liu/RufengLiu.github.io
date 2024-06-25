@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://RufengLiu.github.io/sitemap.xml
+Sitemap: https://rufeng-liu.github.io/RufengLiu.github.io//sitemap.xml
